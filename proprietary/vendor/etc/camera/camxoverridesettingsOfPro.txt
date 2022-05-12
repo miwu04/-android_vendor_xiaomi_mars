@@ -131,3 +131,6 @@ AFeffectiveSC=0x00000000
 #Input graph self-check switch
 InputInfoChecker=0
 soundTimeWhenAnchor=1
+
+#enable earlyPCR
+numPCRsBeforeStreamOn=1

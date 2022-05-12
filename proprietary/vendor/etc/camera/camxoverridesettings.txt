@@ -113,3 +113,6 @@ absoluteMotionConfidence =100
 absoluteMotionConfidenceThreshold =100
 manualAlignmentFusionMode =AlignGyroBaseOnly
 soundTimeWhenAnchor=1
+
+#enable earlyPCR
+numPCRsBeforeStreamOn=1
