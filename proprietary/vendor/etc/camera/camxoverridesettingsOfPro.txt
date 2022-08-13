@@ -134,3 +134,6 @@ soundTimeWhenAnchor=1
 
 #enable earlyPCR
 numPCRsBeforeStreamOn=1
+
+#Max Flush timeout setting
+sessionMaxFlushWaitTime=2000
