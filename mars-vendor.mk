@@ -123,7 +123,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mars/proprietary/vendor/etc/camera/reid_float.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/reid_float.dlc \
     vendor/xiaomi/mars/proprietary/vendor/etc/camera/sceneDetection.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/sceneDetection.xml \
     vendor/xiaomi/mars/proprietary/vendor/etc/camera/siq_ocl_cache:$(TARGET_COPY_OUT_VENDOR)/etc/camera/siq_ocl_cache \
-    vendor/xiaomi/mars/proprietary/vendor/etc/camera/st_license.lic:$(TARGET_COPY_OUT_VENDOR)/etc/camera/st_license.lic \
     vendor/xiaomi/mars/proprietary/vendor/etc/camera/star_motiontuning.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/star_motiontuning.xml \
     vendor/xiaomi/mars/proprietary/vendor/etc/camera/stereo.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/stereo.bin \
     vendor/xiaomi/mars/proprietary/vendor/etc/camera/superiq_model:$(TARGET_COPY_OUT_VENDOR)/etc/camera/superiq_model \
